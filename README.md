@@ -2,3 +2,4 @@
 Landing page code for templates
 Files include:
 1. Index.html
+2. Styles.css
